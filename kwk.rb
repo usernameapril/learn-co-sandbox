@@ -20,4 +20,3 @@ end
  end
  hair_color = Model.new("kkw","blonde","red")
 hair_color.hair="black"
-puts hair_color.hair
